@@ -1,0 +1,1 @@
+// que tenga dos propiedades (username, DNI). Instanciar en un programa principal dos objetos y mostrarlos en la consola.

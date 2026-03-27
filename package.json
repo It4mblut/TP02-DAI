@@ -1,0 +1,13 @@
+{
+  "name": "tp2-dai",
+  "version": "1.0.0",
+  "description": "trabajo en clase",
+  "license": "ISC",
+  "author": "eitan koze y florencia sirotinsky",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ejercicio 1" : "node src / "
+  }
+}
