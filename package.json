@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "ejercicio 1": "node scr/EJ1.js"
+    "Ej01": "node scr/EJ01.js"
     
   }
 }
