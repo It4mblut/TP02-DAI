@@ -1,5 +1,5 @@
 // que tenga dos propiedades (username, DNI). Instanciar en un programa principal dos objetos y mostrarlos en la consola.
-function alumnito(username ="Rodrigo", DNI =49504321){
-    console.log(`Hola, mi apellido es ${username}, mi DNI es: ${DNI}`)
+function Alumno(username, DNI, Edad ){
+    console.log(`Hola, mi apellido es ${username}, mi DNI es: ${DNI}, tengo ${Edad} años`)
 }
-export{alumnito}
+export default Alumno
