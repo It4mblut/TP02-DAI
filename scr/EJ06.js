@@ -1,0 +1,2 @@
+//Modificar el ejercicio anterior para que en caso de que dentro de la función parsearUrl(url) se produzca una excepción (por ejemplo un nombre de URL invalida), muestre la excepción en la consola y retorna un objeto con sus propiedades nulas o un objeto vacío (según corresponda)
+//Nota: Se acuerdan del try/catch?
