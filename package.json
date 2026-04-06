@@ -17,6 +17,11 @@
   "scripts": {
     "start": "node index.js",
     "Ej01": "node scr/EJ01.js",
-    "Ej02": "node scr/EJ02.js"
+    "Ej02": "node scr/EJ02.js",
+    "Ej03": "node scr/EJ03.js",
+    "Ej04": "node scr/EJ04.js",
+    "Ej05": "node scr/EJ05.js",
+    "Ej06": "node scr/EJ06.js",
+    "Ej07": "node scr/EJ07.js"
   }
 }
